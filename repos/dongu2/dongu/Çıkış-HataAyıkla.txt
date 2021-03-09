@@ -1,0 +1,19 @@
+﻿'odev.exe' (Win32): 'C:\Users\User\source\repos\odev\Debug\odev.exe' yüklendi. Semboller yüklendi.
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' yüklendi. 
+0x2ff8 iş parçacığı 0 (0x0) koduyla çıktı.
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll' yüklendi. 
+'odev.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' yüklendi. 
+0x3228 iş parçacığı 1 (0x1) koduyla çıktı.
+0x2bd0 iş parçacığı 1 (0x1) koduyla çıktı.
+0x2d48 iş parçacığı 1 (0x1) koduyla çıktı.
+'[9152] odev.exe' programı 1 (0x1) koduyla çıktı.

@@ -1,0 +1,7 @@
+﻿  Kaynak.cpp
+  Kaynak1.cpp
+C:\Users\User\source\repos\Project12\Project12\Kaynak1.cpp(6,15): error C2059: sözdizimi hatası: ';'
+C:\Users\User\source\repos\Project12\Project12\Kaynak1.cpp(11,7): error C2086: 'int c': yeniden tanımlama
+C:\Users\User\source\repos\Project12\Project12\Kaynak1.cpp(6): message : 'c' bildirimine bakın
+C:\Users\User\source\repos\Project12\Project12\Kaynak1.cpp(11,9): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...

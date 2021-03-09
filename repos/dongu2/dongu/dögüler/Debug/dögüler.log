@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+Kaynak1.obj : error LNK2005: _main zaten Kaynak.obj üzerinde tanımlandı
+C:\Users\User\source\repos\dögüler\Debug\dögüler.exe : fatal error LNK1169: Bir veya daha fazla birden çok kez tanımlanmış sembol bulundu
